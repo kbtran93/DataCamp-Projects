@@ -9,6 +9,7 @@ My [Datacamp](https://www.datacamp.com/profile/binhtrank50) projects.
 ## R
 | Project | Description |
 | --- | --- |
+| `Exploring the Kaggle Data Science Survey` | Discover the top tools Kaggle participants use for data science and machine learning|
 | `Functions for Food Price Forecasts` | Write functions to forecast time series of food prices in Rwanda|
 | `Gender Bias in Graduate Admissions` | Analyze admissions data from UC Berkeley and find out if the university was biased against women|
 | `Health Survey Data Analysis of BMI` | Analyze health survey data to determine how BMI is associated with physical activity and smoking|
