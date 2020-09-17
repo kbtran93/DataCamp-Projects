@@ -20,3 +20,8 @@ My [Datacamp](https://www.datacamp.com/profile/binhtrank50) projects.
 | `Visualizing COVID-19` | Visualize the rise of COVID-19 cases globally with ggplot2|
 | `Visualizing Inequalities in Life Expectancy` | Compare life expectancy across countries and genders with ggplot2|
 | `Wrangling and Visualizing Musical Data` | Wrangle and visualize musical data to find common chords and compare the styles of different artists|
+
+## SQL
+| Project | Description |
+| --- | --- |
+| `Analyze International Debt Statistics` | Write SQL queries to analyze international debt data collected by The World Bank|
