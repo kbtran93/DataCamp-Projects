@@ -14,6 +14,7 @@ My [Datacamp](https://www.datacamp.com/profile/binhtrank50) projects.
 | `Gender Bias in Graduate Admissions` | Analyze admissions data from UC Berkeley and find out if the university was biased against women|
 | `Health Survey Data Analysis of BMI` | Analyze health survey data to determine how BMI is associated with physical activity and smoking|
 | `Importing and Cleaning Data` | Apply importing and data cleaning skills to real-world soccer data|
+| `Kidney Stones and Simpson's Paradox` | Use logistic regression to determine which treatment procedure is more effective for kidney stone removal|
 | `Predict Taxi Fares with Random Forests` | Use regression trees and random forests to find places where New York taxi drivers earn the most|
 | `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths?|
 | `The Impact of Climate Change on Birds` | Predict the impact of climate change on bird distributions using spatial data and machine learning|
