@@ -20,6 +20,7 @@ My [Datacamp](https://www.datacamp.com/profile/binhtrank50) projects.
 | `The Impact of Climate Change on Birds` | Predict the impact of climate change on bird distributions using spatial data and machine learning|
 | `Visualizing COVID-19` | Visualize the rise of COVID-19 cases globally with ggplot2|
 | `Visualizing Inequalities in Life Expectancy` | Compare life expectancy across countries and genders with ggplot2|
+| `What Your Heart Rate Is Telling You` | Examine the relationship between heart rate and heart disease using multiple logistic regression|
 | `Wrangling and Visualizing Musical Data` | Wrangle and visualize musical data to find common chords and compare the styles of different artists|
 
 ## SQL
