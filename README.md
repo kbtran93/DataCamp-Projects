@@ -23,6 +23,12 @@ My [Datacamp](https://www.datacamp.com/profile/binhtrank50) projects.
 | `What Your Heart Rate Is Telling You` | Examine the relationship between heart rate and heart disease using multiple logistic regression|
 | `Wrangling and Visualizing Musical Data` | Wrangle and visualize musical data to find common chords and compare the styles of different artists|
 
+## Python
+| Project | Description |
+| --- | --- |
+| `Analyzing TV Data` | Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office|
+| `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market|
+
 ## SQL
 | Project | Description |
 | --- | --- |
