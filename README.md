@@ -28,6 +28,7 @@ My [Datacamp](https://www.datacamp.com/profile/binhtrank50) projects.
 | --- | --- |
 | `Analyzing TV Data` | Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office|
 | `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market|
+| `The GitHub History of the Scala Language` | Find the true Scala experts by exploring its development history in Git and GitHub|
 
 ## SQL
 | Project | Description |
